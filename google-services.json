@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "134948318225",
+    "project_id": "streetfix-af902",
+    "storage_bucket": "streetfix-af902.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134948318225:android:5b0abd2c846b1f260055b0",
+        "android_client_info": {
+          "package_name": "com.example.streetfix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8uOI2Rl30bSkVI2xe7N3V6gqzsefME6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
