@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Existing colors used on other screens -->
+    <color name="primary_blue">#60A5FA</color>
+    <color name="white">#FFFFFF</color>
+    <color name="text_secondary">#9CA3AF</color>
+    <color name="border_color">#334155</color>
+
+    <color name="status_new_text">#93C5FD</color>
+    <color name="status_progress_text">#FBBF24</color>
+    <color name="status_resolved_text">#86EFAC</color>
+
+    <color name="text_primary">#F1F5F9</color>
+    <color name="support_active_bg">#7F1D1D</color>
+    <color name="support_active_text">#FCA5A5</color>
+
+    <color name="achievement_yellow_bg">#78350F</color>
+    <color name="achievement_blue_bg">#1E3A8A</color>
+    <color name="achievement_green_bg">#14532D</color>
+    <color name="achievement_red_bg">#7F1D1D</color>
+    <color name="achievement_purple_bg">#581C87</color>
+    <color name="achievement_orange_bg">#7C2D12</color>
+
+    <color name="primary">#60A5FA</color>
+    <color name="primary_dark">#3B82F6</color>
+    <color name="text_muted">#9CA3AF</color>
+    <color name="border_light">#334155</color>
+
+    <!-- Material / app theme colors -->
+    <color name="colorBackground">#020617</color>
+    <color name="colorSurface">#111827</color>
+    <color name="colorSearchBox">#1E293B</color>
+
+    <color name="colorOnBackground">#F1F5F9</color>
+    <color name="colorOnSurface">#E5E7EB</color>
+    <color name="colorOnSurfaceVariant">#9CA3AF</color>
+    <color name="colorHint">#475569</color>
+
+    <!-- Navigation -->
+    <color name="nav_active">#60A5FA</color>
+    <color name="nav_inactive">#6B7280</color>
+    <color name="colorNavInactive">#475569</color>
+
+    <!-- Chips -->
+    <color name="chip_bg_unchecked">#1E3A8A</color>
+    <color name="chip_bg_checked">#3B82F6</color>
+    <color name="chip_text_unchecked">#BFDBFE</color>
+    <color name="chip_text_checked">#FFFFFF</color>
+    <color name="status_in_progress_text">#FBBF24</color>
+    <color name="text_muted_dark">#94A3B8</color>
+    <!-- Search -->
+    <color name="colorSearchIcon">#64748B</color>
+    <color name="tab_stroke_color">#475569</color>
+    <color name="overlay_dark_20">#33000000</color>
+    <color name="rewards_primary_card">#1D4ED8</color>
+    <color name="rewards_primary_label">#BFDBFE</color>
+    <color name="support_liked_bg">#450A0A</color>
+    <color name="support_liked_icon">#F87171</color>
+    <color name="error_red">#F87171</color>
+    <color name="success_green">#4ADE80</color>
+    <color name="warning_amber">#FBBF24</color>
+    <color name="level_card_bg">#166534</color>
+    <color name="level_card_label">#A7F3D0</color>
+    <color name="level_card_text">#D1FAE5</color>
+
+</resources>

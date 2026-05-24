@@ -1,0 +1,230 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">StreetFix</string>
+    <string name="home_title">Street Fix</string>
+
+    <!-- Navigation -->
+    <string name="notifications">Obavijesti</string>
+    <string name="home">Početna</string>
+    <string name="map">Mapa</string>
+    <string name="report">Prijavi</string>
+    <string name="rewards">Nagrade</string>
+    <string name="profile">Profil</string>
+    <string name="back">Nazad</string>
+
+    <!-- Search & Filter -->
+    <string name="search_issues">Pretraži prijave...</string>
+    <string name="search">Pretraga</string>
+    <string name="filter">Filter</string>
+
+    <!-- Categories -->
+    <string name="all">Sve</string>
+    <string name="potholes">Rupe na cesti</string>
+    <string name="street_lighting">Ulična rasvjeta</string>
+    <string name="trash">Otpad</string>
+    <string name="sidewalks">Trotoari</string>
+    <string name="traffic_signs">Saobraćajni znakovi</string>
+    <string name="graffiti">Grafiti</string>
+    <string name="other">Ostalo</string>
+    <string name="select_category">Odaberi kategoriju</string>
+    <string name="category">Kategorija</string>
+
+    <!-- Report Creation -->
+    <string name="report_issue">Prijavi problem</string>
+    <string name="photo_evidence">Fotografija problema</string>
+    <string name="selected_image">Odabrana slika</string>
+    <string name="camera">Kamera</string>
+    <string name="take_photo_or_upload">Fotografiši ili učitaj</string>
+    <string name="remove_image">Ukloni sliku</string>
+    <string name="issue_title">Naziv problema</string>
+    <string name="brief_description_problem">Kratak opis problema</string>
+    <string name="description">Opis</string>
+    <string name="provide_more_details">Dodaj više detalja o problemu...</string>
+    <string name="location">Lokacija</string>
+    <string name="current_location_hint">Trenutna lokacija (automatski otkrivena)</string>
+    <string name="choose_on_map">Odaberi na mapi</string>
+    <string name="submit_report">Pošalji prijavu</string>
+
+    <!-- Validation & Messages -->
+    <string name="map_picker_coming_next">Odabir lokacije na mapi dolazi uskoro</string>
+    <string name="title_required">Naslov je obavezan</string>
+    <string name="description_required">Opis je obavezan</string>
+    <string name="location_required">Lokacija je obavezna</string>
+    <string name="please_select_category">Molimo odaberi kategoriju</string>
+    <string name="report_submitted">Prijava je uspješno poslana</string>
+    <string name="you_must_be_logged_in">Moraš biti prijavljen</string>
+    <string name="failed_to_submit_report">Slanje prijave nije uspjelo: </string>
+    <string name="failed_to_load_user_profile">Učitavanje korisničkog profila nije uspjelo: </string>
+    <string name="failed_to_load_reports">Učitavanje prijava nije uspjelo: </string>
+
+    <!-- Profile -->
+    <string name="enter_full_name">Unesi puno ime</string>
+    <string name="enter_email">Unesi email</string>
+    <string name="profile_updated">Profil je ažuriran</string>
+    <string name="language">Jezik</string>
+    <string name="english">Engleski</string>
+    <string name="bosnian">Bosanski</string>
+
+    <!-- Report Item -->
+    <string name="untitled_report">Prijava bez naslova</string>
+    <string name="unknown_location">Nepoznata lokacija</string>
+    <string name="anonymous">Anonimno</string>
+    <string name="recently">Nedavno</string>
+    <string name="just_now">Upravo sad</string>
+
+    <!-- Achievements -->
+    <string name="achievement_first_report">Prva prijava</string>
+    <string name="achievement_first_report_desc">
+        Pošalji svoju prvu prijavu problema u zajednici.
+    </string>
+    <string name="achievement_5_reports">Aktivni prijavljivač</string>
+    <string name="achievement_5_reports_desc">
+        Pošalji 5 prijava problema.
+    </string>
+    <string name="achievement_10_resolved">Pratilac rješenja</string>
+    <string name="achievement_10_resolved_desc">
+        Neka 10 tvojih prijavljenih problema bude riješeno.
+    </string>
+    <string name="achievement_neighborhood_helper">Komšijski pomagač</string>
+    <string name="achievement_neighborhood_helper_desc">
+        Osvoji 100 bodova podrške od zajednice.
+    </string>
+    <string name="achievement_25_reports">Posvećeni posmatrač</string>
+    <string name="achievement_25_reports_desc">
+        Pošalji 25 prijava problema.
+    </string>
+    <string name="achievement_city_hero">Heroj grada</string>
+    <string name="achievement_city_hero_desc">
+        Dostigni 1000 bodova doprinosa.
+    </string>
+
+    <!-- Leaderboard -->
+    <string name="points">Bodovi</string>
+    <string name="reports">Prijave</string>
+    <string name="resolved">Riješeno</string>
+    <string name="you_user_label">Ti</string>
+
+    <!-- Onboarding -->
+    <string name="next">Dalje</string>
+    <string name="get_started">Započni</string>
+    <string name="onboarding_report_issues_title">Prijavi probleme</string>
+    <string name="onboarding_report_issues_desc">
+        Fotografiši i prijavi probleme u svom komšiluku odmah.
+    </string>
+    <string name="onboarding_track_progress_title">Prati napredak</string>
+    <string name="onboarding_track_progress_desc">
+        Prati svoje prijave i vidi ažuriranja u realnom vremenu.
+    </string>
+    <string name="onboarding_earn_rewards_title">Osvoji nagrade</string>
+    <string name="onboarding_earn_rewards_desc">
+        Dobij bodove i bedževe za pomoć u poboljšanju tvoje zajednice.
+    </string>
+
+    <!-- Settings -->
+    <string name="privacy_security">Privatnost i sigurnost</string>
+    <string name="help_center">Centar za pomoć</string>
+    <string name="about">O aplikaciji</string>
+    <string name="log_out">Odjava</string>
+    <string name="cancel">Otkaži</string>
+    <string name="logout_confirm_message">Jesi li siguran da se želiš odjaviti?</string>
+    <!-- Settings screen -->
+    <string name="settings">Postavke</string>
+    <string name="account">Račun</string>
+    <string name="open">Otvori</string>
+    <string name="theme">Tema</string>
+    <string name="dark_mode">Tamni režim</string>
+    <string name="support">Podrška</string>
+
+    <string name="app_version">Street Fix v1.0.0</string>
+    <string name="app_copyright">
+        © 2026 Street Fix. Sva prava zadržana.
+    </string>
+
+    <string name="map_placeholder">Mjesto za mapu</string>
+    <string name="interactive_map_coming">Interaktivna mapa uskoro stiže</string>
+    <string name="map_placeholder_description">Ovo je privremeni prikaz koji će biti zamijenjen pravom Google Map ekranom.</string>
+    <string name="current_area">Trenutno područje</string>
+    <string name="downtown_district">Centar grada</string>
+    <string name="change">Promijeni</string>
+    <string name="map_preview">Pregled mape</string>
+    <string name="map_preview_description">Uskoro ćeš moći pregledati prijave po lokaciji, otvarati markere i slati probleme direktno s mape.</string>
+    <string name="create_new_report">Napravi novu prijavu</string>
+
+    <string name="report_image">Slika prijave</string>
+    <string name="status_reported">Prijavljeno</string>
+    <string name="status_verified">Provjereno</string>
+    <string name="status_in_progress">U toku</string>
+    <string name="status_resolved">Riješeno</string>
+    <string name="description_label">Opis</string>
+    <string name="location_label">Lokacija</string>
+    <string name="status_timeline">Vremenska linija statusa</string>
+    <string name="comments">Komentari</string>
+    <string name="add_comment">Dodaj komentar...</string>
+    <string name="comments_coming_soon">Komentari uskoro</string>
+    <string name="share_report">Podijeli prijavu</string>
+    <string name="supports_count">%1$d</string>
+    <string name="comments_count">%1$d</string>
+    <string name="by_user">Od %1$s</string>
+    <string name="ago">%1$s ranije</string>
+
+    <string name="sample_report_title">Velika rupa na glavnoj ulici uzrokuje probleme u saobraćaju</string>
+    <string name="sample_report_location">Glavna ulica i 5. avenija</string>
+    <string name="sample_report_time">prije 2 h</string>
+    <string name="sample_supports">142 podrške</string>
+    <string name="sample_comments">28 komentara</string>
+    <!-- Report details errors -->
+    <string name="error_report_id_missing">ID prijave nedostaje</string>
+    <string name="error_report_not_found">Prijava nije pronađena</string>
+    <string name="error_load_failed">Greška pri učitavanju: %1$s</string>
+    <string name="error_login_required">Morate biti prijavljeni</string>
+    <string name="error_support_failed">Greška pri podršci</string>
+
+    <string name="new_status">Novo</string>
+    <string name="in_progress">U obradi</string>
+    <string name="no_reports_found">Nema pronađenih prijava</string>
+    <!-- Report details labels -->
+    <string name="label_report">Prijava</string>
+    <string name="label_category">Kategorija</string>
+    <string name="no_description">Opis nije dostupan.</string>
+
+    <!-- Status labels -->
+    <string name="status_new">Novo</string>
+
+        <string name="your_level">Tvoj nivo</string>
+        <string name="level_5">Nivo 5</string>
+        <string name="trophy">Trofej</string>
+        <string name="progress_to_level_6">Napredak do nivoa 6          650/1000 XP</string>
+        <string name="level">Nivo</string>
+        <string name="rank">Rang</string>
+        <string name="recent_achievements">Nedavna postignuća</string>
+        <string name="view_all">Prikaži sve</string>
+        <string name="first_report">Prva prijava</string>
+        <string name="five_reports">5 prijava</string>
+        <string name="ten_resolved_issues">10 riješenih problema</string>
+        <string name="neighborhood_helper">Pomoćnik u zajednici</string>
+        <string name="top_contributors">Najaktivniji korisnici</string>
+        <string name="alex_martinez">Alex Martinez</string>
+        <string name="alex_points">2450 bodova</string>
+        <string name="jordan_lee">Jordan Lee</string>
+        <string name="jordan_points">2180 bodova</string>
+        <string name="taylor_kim">Taylor Kim</string>
+        <string name="taylor_points">1920 bodova</string>
+
+
+    <!-- Time -->
+    <string name="time_recently">Nedavno</string>
+    <string name="time_just_now">Upravo sada</string>
+    <string name="time_minutes_ago">%1$dm ranije</string>
+    <string name="time_hours_ago">%1$dh ranije</string>
+    <string name="time_days_ago">%1$dd ranije</string>
+    <string name="time_weeks_ago">%1$dw ranije</string>
+
+    <string name="profile_photo">Profilna slika</string>
+    <string name="joined">Pridružen</string>
+    <string name="edit_profile">Uredi profil</string>
+    <string name="my_reports">Moje prijave</string>
+    <string name="achievements">Postignuća</string>
+    <string name="leaderboard">Rang lista</string>
+    <string name="current_level">Trenutni nivo</string>
+    <string name="keep_reporting_next_level">Nastavi prijavljivati da dostigneš sljedeći nivo!</string>
+</resources>

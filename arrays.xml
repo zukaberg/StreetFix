@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="report_categories">
+        <item>Odaberi kategoriju</item>
+        <item>Rupe na cesti</item>
+        <item>Ulična rasvjeta</item>
+        <item>Otpad</item>
+        <item>Trotoari</item>
+        <item>Saobraćajni znakovi</item>
+    </string-array>
+
+</resources>
